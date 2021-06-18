@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.gg/Q4ab3KJ5Zd"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=My%20Discord&color=7289DA" alt="My Discord Badge"/></a>
-<a href="https://twitter.com/TheTherapyCode" ><img src="https://img.shields.io/twitter/follow/TheTherapyCode.svg?style=social" /> </a>
+<a href="https://twitter.com/Palamar_Dev" ><img src="https://img.shields.io/twitter/follow/Palamar_Dev.svg?style=social" /> </a>
 <br>
 
 
