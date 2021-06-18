@@ -20,4 +20,4 @@ Sou formado em Analise e desenvolvimento de Sisitemas e estou em busca de oportu
 
 ### :octocat: Blog
 
-![Blog pessoal](https://linuxupdate.com.br/)
+[Blog pessoal](https://linuxupdate.com.br/)
