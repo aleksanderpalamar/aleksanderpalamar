@@ -18,3 +18,6 @@ Sou formado em Analise e desenvolvimento de Sisitemas e estou em busca de oportu
 ### 🚀 Tecnologias utilizadas.
 [<img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff">]() [<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff">]() [<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff">]() [<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">]() [<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />]() <br> [<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff" />]()  [<img src="https://img.shields.io/badge/-Next.js-61DAFB?style=flat&logo=next.js&logoColor=ffffff" />]() [<img src = "https://img.shields.io/badge/-TypeScript-61DAFB?style=flat&logo=typescript&logoColor=ffffff">]() [<img src = "https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff">]() [<img src="http://img.shields.io/badge/-Linux-0078D6?style=plastic&logo=linux&logoColor=ffffff">]()
 
+### :octocat: Blog
+
+![Blog pessoal](https://linuxupdate.com.br/)
