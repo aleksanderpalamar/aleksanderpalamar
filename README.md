@@ -25,6 +25,9 @@
 </div><br>
 
 <h2>ℹ️ &nbsp;Github Info</h2><br>
+
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/aleksanderpalamar"><img src="https://github-profile-trophy.vercel.app/?username=aleksanderpalamar&margin-w=5&theme=radical" alt="aleksanderpalamar" /></a> </p>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksanderpalamar&theme=github_dark" alt="aleksanderpalamar" align = "center"/></p>
@@ -41,8 +44,6 @@
 
 <!-- </details>
 <details>    -->
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/aleksanderpalamar"><img src="https://github-profile-trophy.vercel.app/?username=aleksanderpalamar&margin-w=5&theme=radical" alt="aleksanderpalamar" /></a> </p>
+
 
 <br>
-
