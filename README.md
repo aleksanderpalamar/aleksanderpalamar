@@ -13,7 +13,6 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/aleksanderpalamar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
     </p>
 
-<h2>🥇 Stacks </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Palamar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Palamar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
