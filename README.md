@@ -24,8 +24,6 @@
   <img align="center" alt="Palamar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
 </div><br>
 
-<h2>ℹ️ &nbsp;Github Info</h2><br>
-
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/aleksanderpalamar"><img src="https://github-profile-trophy.vercel.app/?username=aleksanderpalamar&margin-w=5&theme=radical" alt="aleksanderpalamar" /></a> </p>
 	
