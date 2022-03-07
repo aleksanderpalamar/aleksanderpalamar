@@ -9,8 +9,7 @@
  <p align="center">
   <a href="https://app.linuxupdate.com.br/">
     </a>
-     <a href="https://github.com/aleksanderpalamar">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/aleksanderpalamar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+     
     </p>
 
 <div style="display: inline_block"><br>
