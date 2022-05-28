@@ -1,7 +1,5 @@
 # Hi there 👋, My name is Aleksander Palamar
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](./your-header-image-name.png)" alt="my banner">
-
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
