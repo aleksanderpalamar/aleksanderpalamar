@@ -1,41 +1,36 @@
-<h2 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,   
-</h2>
+# Hi there 👋, My name is Aleksander Palamar
 
-<h4 align='center'>
-  Web Developer
-</h4>
+<img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](./your-header-image-name.png)" alt="my banner">
 
+## 💫 Liitle Bit More About Me
 
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Palamar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Palamar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Palamar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Palamar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Palamar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Palamar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Palamar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
-</div><br>
+## 👥 Connect With Me
+<p>
+</p>
 
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/aleksanderpalamar"><img src="https://github-profile-trophy.vercel.app/?username=aleksanderpalamar&margin-w=5&theme=radical" alt="aleksanderpalamar" /></a> </p>
-	
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksanderpalamar&theme=github_dark" alt="aleksanderpalamar" align = "center"/></p>
+## 🌟 Github Badges
+<p>
+</p>
 
-  <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleksanderpalamar&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="TopCodeBeast" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksanderpalamar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="TopCodeBeast" align = "center"/></p>
+## 🏆 GitHub Trophies
 
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aleksanderpalamar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="aleksanderpalamar" /></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=aleksanderpalamar">
+</p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Aleksander Palamar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aleksanderpalamar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+## 📊 Github Status
 
-<!-- </details>
-<details>    -->
+<p><img src="https://activity-graph.herokuapp.com/graph?username=aleksanderpalamar"><p>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanderpalamar&layout=compact"><p>
 
-<br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aleksanderpalamar"><p>
