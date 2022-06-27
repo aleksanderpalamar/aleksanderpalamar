@@ -10,15 +10,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=aleksanderpalamar">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=aleksanderpalamar"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanderpalamar&layout=compact"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aleksanderpalamar"><p>
