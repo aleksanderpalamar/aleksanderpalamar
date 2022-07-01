@@ -1,6 +1,10 @@
-# Hi there 👋, My name is Aleksander Palamar
+[![Palamar](https://cdn.discordapp.com/attachments/811800332006457356/992465710355861554/code.png)](https://www.palamarsolutionit.com.br/) 
 
-## 💻 Skills
+# 💫 About Me:
+I am an enthusiast of the best web and mobile development technologies.<br>
+
+[![](https://visitcount.itsvg.in/api?id=aleksanderpalamar&icon=2&color=6)](https://visitcount.itsvg.in)
+
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -10,8 +14,3 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 📊 Github Status
-
-<p><img src="https://activity-graph.herokuapp.com/graph?username=aleksanderpalamar"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanderpalamar&layout=compact"><p>
