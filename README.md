@@ -1,5 +1,3 @@
-[![Palamar](https://cdn.discordapp.com/attachments/811800332006457356/992465710355861554/code.png)](https://www.palamarsolutionit.com.br/) 
-
 # 💫 About Me:
 I'm a web programmer, and I'm passionate about coding applications and the best web and mobile development technologies.<br>
 
