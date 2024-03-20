@@ -1,14 +1,8 @@
-# 💫 About Me:
-I'm a web programmer, and I'm passionate about coding applications and the best web and mobile development technologies.<br>
+## Aleksander Palamar (PalamarDev)
 
-[![](https://visitcount.itsvg.in/api?id=aleksanderpalamar&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
-</p>
+Sou programador Front-end com em média 6 anos de experiência com essas tecnologias: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git e GitHub e muito mais..
 
+Gosto de construir projetos pessoais e produzir conteúdos para minhas redes sociais.
+
+Quer conhecer um pouco mais sobre mim e ver os projetos que já desenvolvi, [meu portfólio](https://www.aleksanderpalamar.dev/)
