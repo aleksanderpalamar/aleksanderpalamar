@@ -7,7 +7,7 @@ I'm a passionate software developer with a focus on creating efficient and scala
 - 🌍 Based in: Curitiba/PR - Brasil
 - 🌱 Currently learning: Go
 - 💬 about me more: [https://aleksanderpalamar.dev](https://aleksanderpalamar.dev)
-- 📫 How to reach me: apalamar@live.com
+- 📫 How to reach me: apalamardev@gmail.com
 
 ## Technologies & Tools
 
