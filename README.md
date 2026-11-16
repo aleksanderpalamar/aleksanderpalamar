@@ -9,7 +9,7 @@ I believe that software development is not just about writing code, but about un
 - 🌎 Based in: Brasil
 - 🦀 Currently learning: Rust
 - 🐧 Passionate about Linux and Open Source
-- 💬 Website: [aleksanderpalamar.dev](https://aleksanderpalamar.dev)
+- 💬 Site: [aleksanderpalamar.dev](https://aleksanderpalamar.dev)
 - 📫 How to reach me: apalamardev@gmail.com
 
 ## Development Philosophy
