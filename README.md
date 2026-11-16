@@ -14,4 +14,4 @@ I believe that software development is not just about writing code, but about un
 
 ## Development Philosophy
 
-> *Constructive criticism identifies what needs to evolve. Gratuitous disparagement merely expresses discontent.*
+> *The essence of a programmer lies in the ability to solve problems, not in clinging to a particular solution or programming language driven by hype.*
